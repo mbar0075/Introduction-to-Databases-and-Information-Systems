@@ -53,4 +53,4 @@ Throughout the project, I utilized the **PostgreSQL** database management system
 
 ## Deliverables:
 The repository includes:<br />
-Databases Assignment Documentation<br />
+[Databases Project Documentation](https://github.com/mbar0075/Introduction-to-Databases-and-Information-Systems/blob/main/Databases_Documentation.pdf) - Documentation for the project.<br />
