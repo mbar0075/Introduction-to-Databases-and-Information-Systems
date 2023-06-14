@@ -19,7 +19,7 @@ CREATE TABLE IF NOT EXISTS public.supplier
 ```
 
 ```plpgsql
-REATE OR REPLACE FUNCTION EmployeeDept(empId int) RETURNS int AS $$
+CREATE OR REPLACE FUNCTION EmployeeDept(empId int) RETURNS int AS $$
 DECLARE
  deptNo int;
 BEGIN
